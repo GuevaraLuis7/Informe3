@@ -50,7 +50,7 @@ La ley de corriente de Kirchhoff y una clave para aplicarlo a cada nodo es la si
 
 Gráficamente se representará de la siguiente forma cuando tengamos un nodo:
 
-<img src="image/ima1.png">
+<img src="Images/ima1.png">
 
 Se puede observar como al nodo A  entra la corriente I1, de igual forma podemos observar cómo del mismo nodo salen dos corrientes que son I2 e I3 por lo cual y basados en la ecuación expresada anteriormente podríamos reemplazar las corrientes expresadas en la ecuación 1 y nos quedaría de la siguiente forma:
 
@@ -58,11 +58,11 @@ Se puede observar como al nodo A  entra la corriente I1, de igual forma podemos 
    
 Gráficamente se representará de la siguiente forma:
 
-<img src="image/ima2.png">
+<img src="Images/ima2.png">
      
 Podemos observar que los puntos Vx y Vy poseen voltaje, la expresión de las corrientes en términos de voltaje sobre resistencia V/R  y en relación con la ecuación de las corrientes que entran igual a las que salen, la ecuación transformada nos quedaría de la siguiente forma:
 
-<img src="image/ima3.png">
+<img src="Images/ima3.png">
      
 De acuerdo a la ecuación anterior, Vx representa el voltaje de entrada. Vy es el voltaje de salida o voltaje en otro punto.
 
