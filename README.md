@@ -70,7 +70,17 @@ De acuerdo a la ecuación anterior, Vx representa el voltaje de entrada. Vy es e
 
 ### Explicación del procedimiento
 
+***Material y equipo requerido***
+
+***Pasos a seguir***
+
+***Procedimiento***
+
 ### Resultados
+
+***Porcentaje de error relativo entre los valores teóricos y los experimentales***
+
+***Análisis de los resultados***
 
 ### Video
 
