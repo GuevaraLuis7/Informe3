@@ -137,6 +137,8 @@ Tabla 1.1 Resultados Obtenidos para el circuito de la figura 1
 
 ### Video
 
+https://youtu.be/mtyH2CnR2wo
+
 ### Conclusiones
 
 - Gracias al estudio de este circuito y a las leyes de Kirchhoff ya somos capaces de realizar los calculos de un circuito por el metodo de nodos.
