@@ -117,7 +117,7 @@ Figura 2.- Circuito para el análisis de nodos
 
 <img src=Images/corrientes.jpeg width= "350">
 
-<img src=Images/voltajes.jpeg width= "350">
+<img src=Images/voltajes1.jpeg width= "350">
 
 ### Resultados
 
