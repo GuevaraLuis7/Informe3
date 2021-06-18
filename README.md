@@ -73,6 +73,11 @@ De acuerdo a la ecuación anterior, Vx representa el voltaje de entrada. Vy es e
 ***Material y equipo requerido***
 
 ***Pasos a seguir***
+1. Iniciar el simulador y seleccionar los materiales a utilizar.
+2. Preparar los materiales en el simulador: resistencia con cada valor y las fuentes de energía.
+3. Elaborar un circuito con las cinco resistencias con la forma indicada en la guía.
+4. Medir cada uno de los voltajes de los nodos, voltaje y corriente de cada resistencia y anotar los resultados.
+5. Analizar los nodos para obtener los resultados analiticos de cada voltaje y de cada corriente.
 
 ***Procedimiento***
 
