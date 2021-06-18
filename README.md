@@ -72,7 +72,9 @@ De acuerdo a la ecuación anterior, Vx representa el voltaje de entrada. Vy es e
 
 ***Material y equipo requerido***
 
+<img src=Images/materiales.jpeg width= "330">
 
+Tabla I. Materiales y Equipo
 
 ***Pasos a seguir***
 1. Iniciar el simulador y seleccionar los materiales a utilizar.
@@ -82,6 +84,10 @@ De acuerdo a la ecuación anterior, Vx representa el voltaje de entrada. Vy es e
 5. Analizar los nodos para obtener los resultados analiticos de cada voltaje y de cada corriente.
 
 ***Procedimiento***
+
+<img src=Images/circuito.jpeg width= "490">
+
+Figura 1.- Circuito de analisis de nodos
 
 <img src=Images/nodoa.jpeg width= "800">
 
