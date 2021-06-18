@@ -138,4 +138,12 @@ Tabla 1.1 Resultados Obtenidos para el circuito de la figura 1
 
 ### Anexos
 
+<img src=Images/simulador1.jpeg width= "560">
+
+Anexo 1. Analisis de nodos voltaje
+
+<img src=Images/simulador2.jpeg width= "560">
+
+Anexo 2. Analisis de nodos corriente
+
 ### Bibliografía
