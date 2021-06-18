@@ -129,6 +129,9 @@ Tabla 1.1 Resultados Obtenidos para el circuito de la figura 1
 
 <img src="Images/porcentaje.jpg">
 
+<img src="Images/errorvol.jpg">
+
+<img src="Images/errorcorr.jpg">
 ***Análisis de los resultados***
 
 - Podemos observar que tanto los resultados analizados como los calculados son iguales sin ningun margen de error.
