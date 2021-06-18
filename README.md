@@ -121,14 +121,13 @@ Figura 2.- Circuito para el análisis de nodos
 
 ### Resultados
 
-***Porcentaje de error relativo entre los valores teóricos y los experimentales***
-
-***Análisis de los resultados***
-
 <img src=Images/tablaresultados.jpeg width= "500">
 
 Tabla 1.1 Resultados Obtenidos para el circuito de la figura 1
 
+***Porcentaje de error relativo entre los valores teóricos y los experimentales***
+
+***Análisis de los resultados***
 
 
 ### Video
