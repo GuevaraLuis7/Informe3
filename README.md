@@ -72,6 +72,8 @@ De acuerdo a la ecuación anterior, Vx representa el voltaje de entrada. Vy es e
 
 ***Material y equipo requerido***
 
+
+
 ***Pasos a seguir***
 1. Iniciar el simulador y seleccionar los materiales a utilizar.
 2. Preparar los materiales en el simulador: resistencia con cada valor y las fuentes de energía.
