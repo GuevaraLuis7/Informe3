@@ -89,6 +89,10 @@ Tabla I. Materiales y Equipo
 
 Figura 1.- Circuito de analisis de nodos
 
+<img src=Images/circuito2.0.jpeg width= "490">
+
+Figura 2.- Circuito para el análisis de nodos
+
 <img src=Images/nodoa.jpeg width= "800">
 
 <img src=Images/nodoa2.jpeg width= "330">
