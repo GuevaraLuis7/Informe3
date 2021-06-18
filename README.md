@@ -131,19 +131,19 @@ Tabla 1.1 Resultados Obtenidos para el circuito de la figura 1
 
 ***Análisis de los resultados***
 
--Podemos observar que tanto los resultados analizados como los calculados son iguales sin ningun margen de error.
+- Podemos observar que tanto los resultados analizados como los calculados son iguales sin ningun margen de error.
 
--Estos resultados los pudimos obtener gracias a la ley de kirchhoff la cual nos permitio obtener valores muy exactos a los simulados.
+- Estos resultados los pudimos obtener gracias a la ley de kirchhoff la cual nos permitio obtener valores muy exactos a los simulados.
 
 ### Video
 
 ### Conclusiones
 
--Gracias al estudio de este circuito y a las leyes de Kirchhoff ya somos capaces de realizar los calculos de un circuito por el metodo de nodos.
+- Gracias al estudio de este circuito y a las leyes de Kirchhoff ya somos capaces de realizar los calculos de un circuito por el metodo de nodos.
 
--Con este laboratorio ya tendriamos el conocimiento requerido para la finalización del primer parcial de forma satisfactoria.
+- Con este laboratorio ya tendriamos el conocimiento requerido para la finalización del primer parcial de forma satisfactoria.
 
--Ya podemos aplicar estos conocimientos adquiridos para realizar circuitos mas complejos gracias al desarrollo de este laboratorio.
+- Ya podemos aplicar estos conocimientos adquiridos para realizar circuitos mas complejos gracias al desarrollo de este laboratorio.
 
 ### Anexos
 
