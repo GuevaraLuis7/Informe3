@@ -158,3 +158,14 @@ Anexo 1. Analisis de nodos voltaje
 Anexo 2. Analisis de nodos corriente
 
 ### Bibliografía
+
+- A.J. CONEJO, A. C., J.L.POLO, N. ALGUACIL. 2004. Circuito Eléctricos para la
+Ingeniero. McGraw-Hill. Madrida.
+
+- DAVID IRWIN, J. 1997. Análisis Básico de Circuitos en Ingeniería. , Ed. PrenticeHall, Inc., México.
+
+- McAllister., W. (Mayo de 2017). Khan Academy. Obtenido de Khan Academy: 
+https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-node-voltage-method
+
+- Wikipedia.org. (14 de Octubre de 2020). Wikipedia. Obtenido de Wikipedia: 
+https://es.wikipedia.org/wiki/An%C3%A1lisis_de_nodos
