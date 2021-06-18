@@ -113,6 +113,12 @@ De acuerdo a la ecuación anterior, Vx representa el voltaje de entrada. Vy es e
 
 ***Análisis de los resultados***
 
+<img src=Images/tablaresultados.jpeg width= "500">
+
+Tabla 1.1 Resultados Obtenidos para el circuito de la figura 1
+
+
+
 ### Video
 
 ### Conclusiones
