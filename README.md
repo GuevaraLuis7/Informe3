@@ -81,6 +81,32 @@ De acuerdo a la ecuación anterior, Vx representa el voltaje de entrada. Vy es e
 
 ***Procedimiento***
 
+<img src=Images/nodoa.jpeg width= "800">
+
+<img src=Images/nodoa2.jpeg width= "330">
+
+<img src=Images/nodob.jpeg width= "800">
+
+<img src=Images/nodob2.jpeg width= "330">
+
+<img src=Images/ecuaciones.jpeg width= "265">
+
+<img src=Images/matriz1.jpeg width= "250">
+
+<img src=Images/matriz2.jpeg width= "250">
+
+<img src=Images/matriz3.jpeg width= "250">
+
+<img src=Images/matriz4.jpeg width= "250">
+
+<img src=Images/matriz5.jpeg width= "250">
+
+<img src=Images/matriz6.jpeg width= "250">
+
+<img src=Images/corrientes.jpeg width= "350">
+
+<img src=Images/voltajes.jpeg width= "350">
+
 ### Resultados
 
 ***Porcentaje de error relativo entre los valores teóricos y los experimentales***
