@@ -127,6 +127,8 @@ Tabla 1.1 Resultados Obtenidos para el circuito de la figura 1
 
 ***Porcentaje de error relativo entre los valores teóricos y los experimentales***
 
+<img src="Images/porcentaje.jpg">
+
 ***Análisis de los resultados***
 
 
