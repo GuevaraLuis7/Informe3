@@ -145,6 +145,8 @@ Tabla 1.1 Resultados Obtenidos para el circuito de la figura 1
 
 - Ya podemos aplicar estos conocimientos adquiridos para realizar circuitos mas complejos gracias al desarrollo de este laboratorio.
 
+- Este laboratorio resultó de gran ayuda, ya que pudimos armar circuitos con varias resistencias y con 2 fuentes de voltaje y mediante la práctica vamos reforzando los conceptos aprendidos en clases.
+
 ### Anexos
 
 <img src=Images/simulador1.jpeg width= "560">
